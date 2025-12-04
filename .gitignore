@@ -1,0 +1,10 @@
+.kaggle
+.venv
+/pretrained_models_dir
+/test_trainer*
+/tmp_trainer*
+*unsloth*
+/wikipedia_data
+.env
+*.csv
+*.zip
