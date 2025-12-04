@@ -1,7 +1,5 @@
 # Toxicity Detector
 
----
-
 ## 🛠️ Setup
 
 ### TODO
@@ -10,8 +8,6 @@
 * [ ] Provide instructions for cloning the repository and installing dependencies (e.g., `pip install -r requirements.txt`).
 * [ ] Explain how to download or access the necessary training and evaluation data.
 * [ ] Detail the command to run the main script (e.g., `python train.py`).
-
----
 
 ## 📈 Results
 
